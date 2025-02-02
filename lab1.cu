@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
 	std::cout << "  2 - GPU SAXPY \n";
 	std::cout << "  3 - CPU Monte-Carlo Pi \n";
 	std::cout << "  4 - GPU Monte-Carlo Pi \n";
-
+	
 	std::cin >> choice;
 
 	std::cout << "\n";
